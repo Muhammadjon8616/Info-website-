@@ -1,0 +1,247 @@
+.container {
+    background: url(img/Vectoe.png);
+}
+.header-body {
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+.header-section {
+    padding-top: 100px;
+    margin-left: 30px;
+}
+ul.nav {
+    list-style: none;
+    display: inline-flex;
+     align-items: baseline;
+         margin-left: 250px;
+}
+li {
+    margin: 50px;
+}
+.header-title {
+    text-align: justify;
+}
+h1 {
+    font-weight: 500;
+    color: blueviolet;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+.uk-button-primary {
+    background-color: #925cff;
+    color: #fff;
+    border: 1px solid transparent;
+}
+.btn>p{
+    margin:40px;
+}
+section.info {
+    margin-top: 200px;
+}
+.info-container {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.title {
+    margin-top: 100px;
+}
+h2 {
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+.title-2 {
+    margin-top: 130px;
+}
+.\#-1 {
+    margin-right: 30px;
+    margin-top: -100px;
+}
+section.Services {
+    margin-top: 100px;
+    padding: auto;
+}
+.services-title {
+    text-align: center;
+}
+h3 {
+    margin-bottom: 30px;
+    font-size: xx-large;
+}
+.services-container {
+    display: flex;
+    align-items: baseline;
+    text-align: center;
+    margin-top: 70px;
+}
+.tr-1 {
+    margin-left: 10px;
+}
+.sec2 {
+    margin-top: 45px;
+}
+.sec6 {
+    margin-top: 40px;
+}
+.sec9 {
+    margin-top: 40px;
+}
+.sec3 {
+    margin-top: 35px;
+}
+}.sec10 {
+    margin-top: 30px;
+}
+.sec12 {
+    margin-top: 40px;
+}
+.about-container {
+    margin-top: 150px;
+    margin-left: 30px;
+}
+img.road {
+    float: right;
+}
+
+
+h5 {
+    font-size: xx-large;
+}
+.text {
+    margin-bottom: 50px;
+}
+.bt {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+p.D {
+    font-size: xx-large;
+    color: black;
+}
+p.R {
+    font-size: xx-large;
+    color: black;
+}
+.bt>p{
+    margin-left: 40px;
+}
+section.text {
+    margin-top: 200px;
+}
+img.car {
+    float: left;
+}
+.text-container {
+    text-align: center;
+}
+.bc {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 30px;
+        justify-content: center;
+}.bc>p{
+    margin-left: 40px;
+    font-size: xx-large;
+    /* text-align: justify; */
+    text-align: center;
+}
+img.girl {
+    float: right;
+    max-width: 600px;
+}
+.uk-card-default {
+    background:none;
+    color:none;
+     box-shadow:none;
+}
+   .Finance-container {
+    margin-top: 100px;
+    display: flex;
+
+}
+.text-2 {
+    text-align: justify;
+    margin-left: 30px;
+}
+
+img.shape-2 {
+    margin-top: 100px;
+}
+img.shape-3 {
+    margin-top: 320px;
+    margin-left: 200px;
+}
+canvas, img, video {
+    max-width:none;
+    height: auto;
+    box-sizing: border-box;
+}
+.uk-card-1.uk-card-default {
+    margin-left: 30px;
+}
+footer.footer {
+    margin-top: 150px;
+    background-color: honeydew;
+}
+.footer-container {
+    display: flex;
+}
+ul {
+    list-style: none;
+}
+svg {
+    color: cadetblue;
+}
+h6 {
+    margin-top: 150px;
+    font-size: larger;
+    color: cadetblue;
+}
+.uk-button:not(:disabled) {
+    cursor: pointer;
+    border-radius: 15px;
+}
+section.Finance {
+    margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
